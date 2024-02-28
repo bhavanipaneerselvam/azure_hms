@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php 
 include('func1.php');
-$con=mysqli_connect("localhost","root","","myhmsdb");
+$con=mysqli_connect("localhost","root","Test@123","hms");
 $doctor = $_SESSION['dname'];
 if(isset($_GET['cancel']))
   {
@@ -272,7 +272,7 @@ if(isset($_GET['cancel']))
                 <tbody>
                   <?php 
 
-                    $con=mysqli_connect("localhost","root","","myhmsdb");
+                    $con=mysqli_connect("localhost","root","Test@123","hms");
                     global $con;
 
                     $query = "select pid,fname,lname,ID,appdate,apptime,disease,allergy,prescription from prestb where doctor='$doctor';";
@@ -325,7 +325,7 @@ if(isset($_GET['cancel']))
                 <tbody>
                   <?php 
 
-                    $con=mysqli_connect("localhost","root","","myhmsdb");
+                    $con=mysqli_connect("localhost","root","Test@123","hms");
                     global $con;
 
                     $query = "select * from appointmenttb;";
