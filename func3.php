@@ -1,6 +1,6 @@
 <?php
 session_start();
-$con=mysqli_connect("localhost","root","","myhmsdb");
+$con=mysqli_connect("localhost","root","Test@123","hms");
 if(isset($_POST['adsub'])){
 	$username=$_POST['username1'];
 	$password=$_POST['password2'];
