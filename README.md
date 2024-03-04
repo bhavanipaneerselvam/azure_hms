@@ -10,7 +10,6 @@ Hospital Management System is a web application designed to streamline the proce
 - [Project Structure](#project-structure)
 - [Contributors](#contributors)
 
-
 ## Features
 
 ### Patient Portal
@@ -37,15 +36,97 @@ Hospital Management System is a web application designed to streamline the proce
 - **Cloud Services**: Azure for hosting, Apache for server deployment
 - **Monitoring**: Integrating monitoring AI services for system health monitoring
 
+## Installation
 
-![image](https://github.com/bhavanisulochana/DEMO/assets/158044590/fbc97bb4-6234-4cca-9ba6-258c0d6380e7)
-![image](https://github.com/bhavanisulochana/DEMO/assets/158044590/988a0983-764f-488d-ad8c-51e7b227c478)
-![image](https://github.com/bhavanisulochana/DEMO/assets/158044590/36a11cee-b62e-4428-9c46-f2281f2c3f0f)
-![image](https://github.com/bhavanisulochana/DEMO/assets/158044590/794b5d4d-7654-4c15-8d75-cbbc1c7fda33)
-![image](https://github.com/bhavanisulochana/DEMO/assets/158044590/208cfd5e-e239-4791-9c0e-beb5589873bb)
-![image](https://github.com/bhavanisulochana/DEMO/assets/158044590/5de8ba8f-6faf-4755-a725-8dcf8b2da9a8)
-![image](https://github.com/bhavanisulochana/DEMO/assets/158044590/93ec1eda-ad7a-429f-a1da-243a69f00167)
-![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153825193/5fc22888-084a-431d-bbc4-65592d53c501)
+To set up the Hospital Management System locally, follow these steps:
+
+1. **Clone the repository**: 
+    ```bash
+    git clone https://github.com/your/repository.git
+    ```
+
+2. **Setup the Database**:
+    - Create a MySQL database named `hospital_management`.
+    - Import the database schema from `database.sql` file.
+
+3. **Configure Database Connection**:
+    - Open `config.php` file located in the `backend` directory.
+    - Update the database connection details (hostname, username, password, database name).
+
+4. **Deploy the Application**:
+    - Host the `frontend` directory on a web server (e.g., Apache).
+    - Host the `backend` directory on a PHP-enabled server.
+
+5. **Access the Application**:
+    - Visit the URL where you hosted the frontend to access the Hospital Management System.
+
+## Usage
+
+1. **Patient Portal**:
+    - Patients can sign up or log in to their accounts.
+    - They can book appointments with preferred doctors and view/manage their appointments and prescriptions.
+
+2. **Doctor Portal**:
+    - Doctors can log in to view appointments scheduled with them.
+    - They can create and manage prescriptions for patients.
+
+3. **Admin Portal**:
+    - Administrators can log in to manage user accounts, appointments, and system monitoring.
+
+
+## Azure Services 
+
+##Azure Virtual Machines:
+
+Host the backend PHP code and MySQL database.
+Ensures high availability and scalability by enabling easy scaling of compute resources.
+Provides flexibility in choosing operating systems and configuring virtual machine sizes.
+## Azure Resource Groups:
+
+Organizes all Azure resources related to the hospital management system into a logical group.
+Simplifies resource management, access control, and monitoring.
+## Azure Virtual Network:
+
+Establishes a private network in the Azure cloud for secure communication between virtual machines and services.
+Enables isolation and segmentation of resources to enhance security and compliance.
+## Azure Monitor:
+
+Monitors the performance and health of the hospital management system.
+Provides real-time insights, metrics, and logs for proactive troubleshooting and optimization.
+Enables alerting and notification mechanisms for critical events.
+## Azure AI Services:
+
+Integrates AI capabilities for language understanding and chatbot functionalities.
+Enhances patient engagement through conversational interfaces for appointment scheduling, prescription management, and FAQs.
+Utilizes Azure Cognitive Services such as Language Understanding (LUIS) and Azure Bot Service for AI-powered interactions.\
+
+
+
+## ScreenShort 
+![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/1a61c622-9466-4d30-9a80-e9dce4f6dcc8)
+![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/bb94872c-9557-4441-bea3-4e9f7eba6cdb)
+![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/b97a7e10-6053-49c1-9256-d4692086854d)
+![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/3a854ba0-2206-4db5-8ff1-eb3fd38ff9cb)
+![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/6c30fefb-5f15-491e-be4a-ffcc17aefef3)
+![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/058467d3-5092-40b7-95c8-9d87e8f28c31)
+![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/df0af038-04f7-4c7c-ac12-167320a38dc4)
+![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/62726717-2824-49a6-996d-c3bf35ffacc6)
+![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/b1b4107b-f87b-4fda-aad6-b023d42c2f5d)
+![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/c00d8327-6a54-47e9-867a-63a26397ee11)
+![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/731936e7-c799-4b36-be90-4b3f5e744a96)
+![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/8d7429de-9dd9-44f9-90b7-35b66d9f2756)
+![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/aa512e96-37fc-4d0b-b98a-4315f08d96e0)
+![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/85cd43a8-991a-48df-84eb-4c7ce5612040)
+![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/749db959-dd57-441b-9f63-cc9c2b6794e4)
+![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/830c35a7-7f1f-4f91-a310-89c475eb2bed)
+
+
+
+
+
+
+
+
 
 
 
