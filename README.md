@@ -76,7 +76,7 @@ To set up the Hospital Management System locally, follow these steps:
 
 ## Azure Services 
 
-##Azure Virtual Machines:
+## Azure Virtual Machines:
 
 Host the backend PHP code and MySQL database.
 Ensures high availability and scalability by enabling easy scaling of compute resources.
@@ -89,7 +89,7 @@ Simplifies resource management, access control, and monitoring.
 
 Establishes a private network in the Azure cloud for secure communication between virtual machines and services.
 Enables isolation and segmentation of resources to enhance security and compliance.
-## Azure Monitor:
+## Azure Monitor Insights:
 
 Monitors the performance and health of the hospital management system.
 Provides real-time insights, metrics, and logs for proactive troubleshooting and optimization.
