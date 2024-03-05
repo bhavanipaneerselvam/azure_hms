@@ -42,7 +42,7 @@ To set up the Hospital Management System locally, follow these steps:
 
 1. **Clone the repository**: 
     ```bash
-    git clone https://github.com/your/repository.git
+    git clone https://github.com/your/repository.git](https://github.com/bhavanipaneerselvam/azure_hms
     ```
 
 2. **Setup the Database**:
