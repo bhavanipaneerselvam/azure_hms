@@ -34,7 +34,12 @@ Hospital Management System is a web application designed to streamline the proce
 - **Backend**: PHP
 - **Database**: MySQL (or any other preferred database system)
 - **Cloud Services**: Azure for hosting, Apache for server deployment
-- **Monitoring**: Integrating monitoring AI services for system health monitoring
+- **Monitoring**: Integrating monitoring AI services for system
+ health monitoring
+## Team Members
+-**Bhavani**: Frontend And Backend Developer
+-**Keerthana**: Cloud Computing Deployment
+-**Swetha**: Tester
 
 ## Installation
 
