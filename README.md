@@ -111,14 +111,7 @@ Utilizes Azure Cognitive Services such as Language Understanding (LUIS) and Azur
 ![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/058467d3-5092-40b7-95c8-9d87e8f28c31)
 ![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/df0af038-04f7-4c7c-ac12-167320a38dc4)
 ![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/62726717-2824-49a6-996d-c3bf35ffacc6)
-![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/b1b4107b-f87b-4fda-aad6-b023d42c2f5d)
-![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/c00d8327-6a54-47e9-867a-63a26397ee11)
-![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/731936e7-c799-4b36-be90-4b3f5e744a96)
-![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/8d7429de-9dd9-44f9-90b7-35b66d9f2756)
-![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/aa512e96-37fc-4d0b-b98a-4315f08d96e0)
-![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/85cd43a8-991a-48df-84eb-4c7ce5612040)
-![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/749db959-dd57-441b-9f63-cc9c2b6794e4)
-![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/830c35a7-7f1f-4f91-a310-89c475eb2bed)
+
 
 
 
