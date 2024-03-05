@@ -112,6 +112,9 @@ Utilizes Azure Cognitive Services such as Language Understanding (LUIS) and Azur
 ![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/df0af038-04f7-4c7c-ac12-167320a38dc4)
 ![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153912844/62726717-2824-49a6-996d-c3bf35ffacc6)
 
+![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153825193/17acb5e9-9e08-4c58-a7aa-ad63af8dfcd0)
+
+
 
 
 
