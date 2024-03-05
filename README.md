@@ -37,9 +37,9 @@ Hospital Management System is a web application designed to streamline the proce
 - **Monitoring**: Integrating monitoring AI services for system
  health monitoring
 ## Team Members
--**Bhavani**: Frontend And Backend Developer
--**Keerthana**: Cloud Computing Deployment
--**Swetha**: Tester
+Bhavani: Frontend And Backend Developer
+Keerthana: Cloud Computing Deployment
+Swetha: Tester
 
 ## Installation
 
