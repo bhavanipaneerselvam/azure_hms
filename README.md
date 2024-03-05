@@ -69,9 +69,13 @@ To set up the Hospital Management System locally, follow these steps:
 2. **Doctor Portal**:
     - Doctors can log in to view appointments scheduled with them.
     - They can create and manage prescriptions for patients.
+    - Doctor Username: Doctor name
+    - Doctor Password: Doctorname+123
 
 3. **Admin Portal**:
     - Administrators can log in to manage user accounts, appointments, and system monitoring.
+    - Admin Username: admin
+    - Admin Password: admin123
 
 
 ## Azure Services 
@@ -139,6 +143,10 @@ Utilizes Azure Cognitive Services such as Language Understanding (LUIS) and Azur
 ![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153825193/e27c9318-c66f-4597-bbf5-c0609ce61365)
 ![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153825193/fc14606f-d12a-4012-8d5e-0fca7af4948c)
 ![image](https://github.com/bhavanipaneerselvam/azure_hms/assets/153825193/eb5ec8b4-57f8-4634-9e99-3d513e7cdeb9)
+### Video URL
+https://www.youtube.com/watch?v=R4QQ4nWF15I&t=21s
+### Demo URL
+http://20.55.78.167/azure_hms/
 
 
 
